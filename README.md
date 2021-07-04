@@ -8,18 +8,18 @@ The purpose of this analysis was to help Jennifer at Big Market. Jennifer needed
 <img width="647" alt="vine_reviews1" src="https://user-images.githubusercontent.com/79742633/124380365-27147780-dc71-11eb-947a-de7221b014c0.png">
 <img width="717" alt="vine_reviews2" src="https://user-images.githubusercontent.com/79742633/124380366-28de3b00-dc71-11eb-97a0-679ab3d7ab8c.png">
 
-How many Vine reviews and non-Vine reviews were there?
+**_How many Vine reviews and non-Vine reviews were there?_**
 
-- Number of Vine reviews: 162
-- Number of non-Vine reviews: 35,568
+- Number of Vine reviews: **162**
+- Number of non-Vine reviews: **35,568**
 
-How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?
-- Number of 5 stars Vine reviews: 63
-- Number of 5 stars non-Vine reviews: 19,437
+**_How many Vine reviews were 5 stars? How many non-Vine reviews were 5 stars?_**
+- Number of 5 stars Vine reviews: **63**
+- Number of 5 stars non-Vine reviews: **19,437**
 
-What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
-- Percentage of 5 stars Vine reviews: 38.888
-- Percentage of 5 stars non-Vine reviews: 54.647
+**_What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?_**
+- Percentage of 5 stars Vine reviews: **38.888**
+- Percentage of 5 stars non-Vine reviews: **54.647**
 
 **Summary:**
 
