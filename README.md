@@ -25,6 +25,6 @@ The purpose of this analysis was to help Jennifer at Big Market. Jennifer needed
 
 In your summary, state if there is any positivity bias for reviews in the Vine program. Use the results of your analysis to support your statement. Then, provide one additional analysis that you could do with the dataset to support your statement.
 
-There wasn’t any bias for reviews in the Vine program because the Vine program only had a 38.888% of 5-star reviews from the Vine reviews program, while non-Vine reviews had 54.647%. The non-Vine reviews had a percentage that was higher than the Vine program reviews, so there isn’t a positive bias in the Vine program.
+There wasn’t any bias for reviews in the Vine program because the Vine program only had a 38.888% of 5-star reviews from the Vine reviews program, while non-Vine reviews had 54.647%. The non-Vine reviews had a percentage that was higher than the Vine program reviews, so there isn’t a positive bias in the Vine program according to reviews on the "Pet Products" dataset.
 
 An additional analysis I could do with this dataset to support my statement would be to have an equal number of reviews from the Vine program and the non-Vine program members. According to my results above, it showed there are a lot more reviews from non-Vine, which can affect the percentage. This shows that the percent of 5 stars could be more accurate if we compared the same amount of reviews from both the Vine program and non-Vine program reviews.
